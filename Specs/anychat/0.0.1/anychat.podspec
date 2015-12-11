@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   s.name             = "anychat"  
-  s.version          = "2.3.4" 
+  s.version          = “0.0.1” 
   s.summary          = "video and video" 
   s.description      = "anychat解决音视频方案，详情见anychat官网"
   s.homepage         = "https://github.com/zhoulincome/anychat"    
